@@ -2,3 +2,5 @@ wsg v 1.0.0
 Name : John wsg
 Age : wsg
 Hobi : wsgding
+
+Skill : wsg expansion
